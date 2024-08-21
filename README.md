@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Jisun's%20GitHub%20%F0%9F%91%8B&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
 </h1>
 
-##### Hi there 👋 I'm Web Frontend Developer
+##### Hello 👋 I'm Web Frontend Developer
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisunyoon0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jisunyoon)
 
 <p>I love to learn new things. 😍</p>
@@ -31,7 +31,7 @@
 
 <br>
 
-<h2 align="center">:clipboard:   Most Used Languages</h2>
+<h2 align="center">:clipboard: Most Used Languages</h2>
 <div align=center>
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisunyoon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)      
